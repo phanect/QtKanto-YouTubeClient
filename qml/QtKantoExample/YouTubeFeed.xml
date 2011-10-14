@@ -1,0 +1,1753 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:media='http://search.yahoo.com/mrss/' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:gml='http://www.opengis.net/gml' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:georss='http://www.georss.org/georss' gd:etag='W/&quot;C0cGQXk5cSp7I2A9WhdbEEo.&quot;'>
+	<id>tag:youtube.com,2008:videos</id>
+	<updated>2011-10-08T10:50:20.729Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+	<title>YouTube Videos matching query: software</title>
+	<logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos?v=2'/>
+	<link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/batch?v=2'/>
+	<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos?q=software&amp;start-index=1&amp;max-results=25&amp;v=2'/>
+	<link rel='service' type='application/atomsvc+xml' href='http://gdata.youtube.com/feeds/api/videos?alt=atom-service&amp;v=2'/>
+	<link rel='next' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos?q=software&amp;start-index=26&amp;max-results=25&amp;v=2'/>
+	<author>
+		<name>YouTube</name>
+		<uri>http://www.youtube.com/</uri>
+	</author>
+	<generator version='2.1' uri='http://gdata.youtube.com'>YouTube data API</generator>
+	<openSearch:totalResults>1000000</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+	<entry gd:etag='W/&quot;CkQERH47eCp7I2A9WhdUEUg.&quot;'>
+		<id>tag:youtube.com,2008:video:EXS0BFS6QT4</id>
+		<published>2009-01-16T19:35:46.000Z</published>
+		<updated>2011-09-27T19:05:05.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software + Services; S+S'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software Plus Services'/>
+		<title>What is Software + Services?</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/EXS0BFS6QT4?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=EXS0BFS6QT4&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/EXS0BFS6QT4/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/EXS0BFS6QT4/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=EXS0BFS6QT4'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/EXS0BFS6QT4?v=2'/>
+		<author>
+			<name>Chehart</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/chehart</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/EXS0BFS6QT4/comments?v=2' countHint='34'/>
+		</gd:comments>
+		<georss:where>
+			<gml:Point>
+				<gml:pos>42.29356384277344 -123.75</gml:pos>
+			</gml:Point>
+		</georss:where>
+		<media:group>
+			<media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category>
+			<media:content url='http://www.youtube.com/v/EXS0BFS6QT4?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='223' yt:format='5'/>
+			<media:content url='rtsp://v2.cache7.c.youtube.com/CiILENy73wIaGQk-QbpUBLR0ERMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='223' yt:format='1'/>
+			<media:content url='rtsp://v5.cache7.c.youtube.com/CiILENy73wIaGQk-QbpUBLR0ERMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='223' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>Chehart</media:credit>
+			<media:description type='plain'>True power comes when local software and Internet services work together to solve problems. It is the combination of software plus services. Software plus Services is Microsofts approach for the next generation of computing. Learn why your business success relies on both software plus services. Whether you are a business owner, technical professional or developer, the combination of Software plus Services gives you the flexibility to accomplish your business goals. This short video simplifies the Software + Services story and helps you to understand the future of technology and the power of choice.</media:description>
+			<media:keywords>software + Services; S+S, Software Plus Services</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=EXS0BFS6QT4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EXS0BFS6QT4/default.jpg' height='90' width='120' time='00:01:51.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EXS0BFS6QT4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EXS0BFS6QT4/1.jpg' height='90' width='120' time='00:00:55.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EXS0BFS6QT4/2.jpg' height='90' width='120' time='00:01:51.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EXS0BFS6QT4/3.jpg' height='90' width='120' time='00:02:47.250' yt:name='end'/>
+			<media:title type='plain'>What is Software + Services?</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='223'/>
+			<yt:uploaded>2009-01-16T19:35:46.000Z</yt:uploaded>
+			<yt:videoid>EXS0BFS6QT4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.5142856' max='5' min='1' numRaters='35' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='66' viewCount='26897'/>
+		<yt:rating numDislikes='4' numLikes='31'/>
+	</entry>
+	<entry gd:etag='W/&quot;CU8GQ347eCp7I2A9WhdUGEk.&quot;'>
+		<id>tag:youtube.com,2008:video:JYOCUREr10E</id>
+		<published>2008-08-28T11:41:56.000Z</published>
+		<updated>2011-10-05T19:43:42.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='download'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='files'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='legally'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='piracy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pirate'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='music'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cool'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='downloading'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mob3'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mobilephone2003'/>
+		<title>How To Get Free Software,Games, Music, Movies legally</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/JYOCUREr10E?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=JYOCUREr10E&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/JYOCUREr10E/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/JYOCUREr10E/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=JYOCUREr10E'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/JYOCUREr10E?v=2'/>
+		<author>
+			<name>mobilephone2003</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/mobilephone2003</uri>
+		</author>
+		<yt:accessControl action='comment' permission='denied'/>
+		<yt:accessControl action='commentVote' permission='denied'/>
+		<yt:accessControl action='videoRespond' permission='allowed'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<media:group>
+			<media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category>
+			<media:content url='http://www.youtube.com/v/JYOCUREr10E?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='456' yt:format='5'/>
+			<media:content url='rtsp://v5.cache2.c.youtube.com/CiILENy73wIaGQlB1ysRUYKDJRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='456' yt:format='1'/>
+			<media:content url='rtsp://v8.cache2.c.youtube.com/CiILENy73wIaGQlB1ysRUYKDJRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='456' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>mobilephone2003</media:credit>
+			<media:description type='plain'>Here I showcase some websites that allow you to get free stuff legally without worrying about piracy. Sourceforge: sourceforge.net Freewarefiles: www.freewarefiles.com mob3 wiki: www.mob3.co.uk YouTorrent: www.youtorrent.com LegitTorrents: www.legittorrents.info Internet Archive: www.archive.org Caiman: www.caiman.us ArtistServer: www.artistserver.com Jamendo: www.jamendo.com Freeware-Guide: www.freeware-guide.com Free Decent Downloads: www.freedecentdownloads.com Neowin Forum Alternatives Thread: www.neowin.net What are your thoughts?</media:description>
+			<media:keywords>download, files, legally, piracy, pirate, software, music, cool, downloading, mob3, mobilephone2003</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=JYOCUREr10E&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/JYOCUREr10E/default.jpg' height='90' width='120' time='00:03:48' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/JYOCUREr10E/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/JYOCUREr10E/1.jpg' height='90' width='120' time='00:01:54' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/JYOCUREr10E/2.jpg' height='90' width='120' time='00:03:48' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/JYOCUREr10E/3.jpg' height='90' width='120' time='00:05:42' yt:name='end'/>
+			<media:title type='plain'>How To Get Free Software,Games, Music, Movies legally</media:title>
+			<yt:duration seconds='456'/>
+			<yt:uploaded>2008-08-28T11:41:56.000Z</yt:uploaded>
+			<yt:videoid>JYOCUREr10E</yt:videoid>
+		</media:group>
+		<gd:rating average='4.531056' max='5' min='1' numRaters='966' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1646' viewCount='237070'/>
+		<yt:rating numDislikes='113' numLikes='853'/>
+	</entry>
+	<entry gd:etag='W/&quot;C0QGSX47eCp7I2A9WhdUFUk.&quot;'>
+		<id>tag:youtube.com,2008:video:Z6f9ckEElsU</id>
+		<published>2008-10-08T10:26:54.000Z</published>
+		<updated>2011-10-02T07:42:08.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Introduction'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='to'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Engineering'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Challenges'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Process'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Models'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='etc.'/>
+		<title>Lecture - 1 Introduction to Software Engineering</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Z6f9ckEElsU?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Z6f9ckEElsU&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Z6f9ckEElsU/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Z6f9ckEElsU/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Z6f9ckEElsU'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Z6f9ckEElsU?v=2'/>
+		<author>
+			<name>nptelhrd</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/nptelhrd</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='allowed'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Z6f9ckEElsU/comments?v=2' countHint='157'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category>
+			<media:content url='http://www.youtube.com/v/Z6f9ckEElsU?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='3141' yt:format='5'/>
+			<media:content url='rtsp://v6.cache4.c.youtube.com/CiILENy73wIaGQnFlgRBcv2nZxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='3141' yt:format='1'/>
+			<media:content url='rtsp://v4.cache1.c.youtube.com/CiILENy73wIaGQnFlgRBcv2nZxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='3141' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>nptelhrd</media:credit>
+			<media:description type='plain'>Lecture Series on Software Engineering by Prof.NL Sarda, Prof. Umesh Bellur,Prof.RKJoshi and Prof.Shashi Kelkar, Department of Computer Science &amp; Engineering ,IIT Bombay . For more details on NPTEL visit nptel.iitm.ac.in</media:description>
+			<media:keywords>Introduction, to, Software, Engineering, Challenges, Process, Models, etc.</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Z6f9ckEElsU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z6f9ckEElsU/default.jpg' height='90' width='120' time='00:26:10.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z6f9ckEElsU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z6f9ckEElsU/1.jpg' height='90' width='120' time='00:13:05.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z6f9ckEElsU/2.jpg' height='90' width='120' time='00:26:10.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z6f9ckEElsU/3.jpg' height='90' width='120' time='00:39:15.750' yt:name='end'/>
+			<media:title type='plain'>Lecture - 1 Introduction to Software Engineering</media:title>
+			<yt:duration seconds='3141'/>
+			<yt:uploaded>2008-10-08T10:26:54.000Z</yt:uploaded>
+			<yt:videoid>Z6f9ckEElsU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.675373' max='5' min='1' numRaters='268' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='542' viewCount='170623'/>
+		<yt:rating numDislikes='22' numLikes='246'/>
+	</entry>
+	<entry gd:etag='W/&quot;CkMASH47eCp7I2A9WhdUFU0.&quot;'>
+		<id>tag:youtube.com,2008:video:a9fqlI9B6QU</id>
+		<published>2007-04-30T03:27:50.000Z</published>
+		<updated>2011-10-01T20:20:49.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='openoffice'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Firefox'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Audacity'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='GIMP'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mediacoder'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Open'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Source'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Free'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software'/>
+		<title>CNET Insider Secrets - Open Source Free Software</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/a9fqlI9B6QU?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=a9fqlI9B6QU&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/a9fqlI9B6QU/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/a9fqlI9B6QU/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=a9fqlI9B6QU'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/a9fqlI9B6QU?v=2'/>
+		<author>
+			<name>stephenjudge</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/stephenjudge</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/a9fqlI9B6QU/comments?v=2' countHint='141'/>
+		</gd:comments>
+		<yt:location>USA</yt:location>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='http://www.youtube.com/v/a9fqlI9B6QU?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='199' yt:format='5'/>
+			<media:content url='rtsp://v5.cache3.c.youtube.com/CiILENy73wIaGQkF6UGPlOrXaxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='199' yt:format='1'/>
+			<media:content url='rtsp://v3.cache5.c.youtube.com/CiILENy73wIaGQkF6UGPlOrXaxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='199' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>stephenjudge</media:credit>
+			<media:description type='plain'>This video explains how there are open source free software alternatives to some of the most popular commercial software. OpenOffice, Firefox, Audacity, GIMP, MediaCoder. Well worth a watch if you are unsure about the benefits of free software. Source: www.cnettv.com</media:description>
+			<media:keywords>openoffice, Firefox, Audacity, GIMP, mediacoder, Open, Source, Free, Software</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=a9fqlI9B6QU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a9fqlI9B6QU/default.jpg' height='90' width='120' time='00:01:39.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a9fqlI9B6QU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a9fqlI9B6QU/1.jpg' height='90' width='120' time='00:00:49.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a9fqlI9B6QU/2.jpg' height='90' width='120' time='00:01:39.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a9fqlI9B6QU/3.jpg' height='90' width='120' time='00:02:29.250' yt:name='end'/>
+			<media:title type='plain'>CNET Insider Secrets - Open Source Free Software</media:title>
+			<yt:duration seconds='199'/>
+			<yt:uploaded>2007-04-30T03:27:50.000Z</yt:uploaded>
+			<yt:videoid>a9fqlI9B6QU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.8435373' max='5' min='1' numRaters='294' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:recorded>2007-01-25</yt:recorded>
+		<yt:statistics favoriteCount='635' viewCount='137036'/>
+		<yt:rating numDislikes='11' numLikes='283'/>
+	</entry>
+	<entry gd:etag='W/&quot;C0UGR347eCp7I2A9WhdRE0o.&quot;'>
+		<id>tag:youtube.com,2008:video:C6pVrFJA93E</id>
+		<published>2007-05-27T00:01:17.000Z</published>
+		<updated>2011-08-03T11:33:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ftp'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='program'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='client'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='build'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='website'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='create'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='web'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='site'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='make'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='upload'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='design'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='setup'/>
+		<title>Free Ftp Software</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/C6pVrFJA93E?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=C6pVrFJA93E&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/C6pVrFJA93E/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/C6pVrFJA93E/related?v=2'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/C6pVrFJA93E?v=2'/>
+		<author>
+			<name>techsavvymarketer</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/techsavvymarketer</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/C6pVrFJA93E/comments?v=2' countHint='36'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto</media:category>
+			<media:content url='http://www.youtube.com/v/C6pVrFJA93E?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='472' yt:format='5'/>
+			<media:content url='rtsp://v3.cache5.c.youtube.com/CiILENy73wIaGQlx90BSrFWqCxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='472' yt:format='1'/>
+			<media:content url='rtsp://v5.cache8.c.youtube.com/CiILENy73wIaGQlx90BSrFWqCxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='472' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>techsavvymarketer</media:credit>
+			<media:description type='plain'>In this video tutorial you will learn how to publish your web site with a powerful and free ftp software. I show how to configure your ftp account in the software to start uploading your website.</media:description>
+			<media:keywords>ftp, program, software, client, build, website, create, web, site, make, upload, design, setup</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=C6pVrFJA93E&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C6pVrFJA93E/default.jpg' height='90' width='120' time='00:03:56' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C6pVrFJA93E/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C6pVrFJA93E/1.jpg' height='90' width='120' time='00:01:58' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C6pVrFJA93E/2.jpg' height='90' width='120' time='00:03:56' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C6pVrFJA93E/3.jpg' height='90' width='120' time='00:05:54' yt:name='end'/>
+			<media:title type='plain'>Free Ftp Software</media:title>
+			<yt:duration seconds='472'/>
+			<yt:uploaded>2007-05-27T00:01:17.000Z</yt:uploaded>
+			<yt:videoid>C6pVrFJA93E</yt:videoid>
+		</media:group>
+		<gd:rating average='4.744681' max='5' min='1' numRaters='47' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='107' viewCount='42436'/>
+		<yt:rating numDislikes='3' numLikes='44'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkQCQH47eCp7I2A9WhdUF0w.&quot;'>
+		<id>tag:youtube.com,2008:video:1eHEAfNFJ0k</id>
+		<published>2009-07-21T11:11:50.000Z</published>
+		<updated>2011-10-04T08:52:41.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='editing'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sony'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='vegas'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='videos'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='editor'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='editors'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tut'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tutorial'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='help'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kdenlive'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='linux'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='free'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='howto'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ubuntu'/>
+		<title>Linux Video Editing Software - What an Open Source Sony Vegas Looks Like</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/1eHEAfNFJ0k?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=1eHEAfNFJ0k&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/1eHEAfNFJ0k/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/1eHEAfNFJ0k/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=1eHEAfNFJ0k'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/1eHEAfNFJ0k?v=2'/>
+		<author>
+			<name>NixiePixel</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/nixiepixel</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/1eHEAfNFJ0k/comments?v=2' countHint='691'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category>
+			<media:content url='http://www.youtube.com/v/1eHEAfNFJ0k?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='206' yt:format='5'/>
+			<media:content url='rtsp://v5.cache4.c.youtube.com/CiILENy73wIaGQlJJ0XzAcTh1RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='206' yt:format='1'/>
+			<media:content url='rtsp://v1.cache7.c.youtube.com/CiILENy73wIaGQlJJ0XzAcTh1RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='206' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>NixiePixel</media:credit>
+			<media:description type='plain'>Check out my new Linux Channel! bit.ly This quick tutorial will teach you how to put together a video complete with titles, transitions and effects! It's easy to learn the basics of video editing, especially in Linux! The program I used is called Kdenlive, It's like Sony Vegas, except it's free and open-source! www.kdenlive.org</media:description>
+			<media:keywords>video, editing, sony, vegas, videos, editor, editors, tut, tutorial, help, kdenlive, linux, free, howto, ubuntu</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=1eHEAfNFJ0k&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1eHEAfNFJ0k/default.jpg' height='90' width='120' time='00:01:43' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1eHEAfNFJ0k/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1eHEAfNFJ0k/1.jpg' height='90' width='120' time='00:00:51.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1eHEAfNFJ0k/2.jpg' height='90' width='120' time='00:01:43' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1eHEAfNFJ0k/3.jpg' height='90' width='120' time='00:02:34.500' yt:name='end'/>
+			<media:title type='plain'>Linux Video Editing Software - What an Open Source Sony Vegas Looks Like</media:title>
+			<yt:duration seconds='206'/>
+			<yt:uploaded>2009-07-21T11:11:50.000Z</yt:uploaded>
+			<yt:videoid>1eHEAfNFJ0k</yt:videoid>
+		</media:group>
+		<gd:rating average='4.891747' max='5' min='1' numRaters='933' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='608' viewCount='206527'/>
+		<yt:rating numDislikes='25' numLikes='908'/>
+	</entry>
+	<entry gd:etag='W/&quot;CUQCSX47eCp7I2A9WhdXFE0.&quot;'>
+		<id>tag:youtube.com,2008:video:VqyIfDssAUI</id>
+		<published>2010-03-24T20:23:40.000Z</published>
+		<updated>2011-08-27T00:02:48.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Samsung'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Galaxy S'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Samsung Galaxy S'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='android'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='smartphone'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ctia'/>
+		<title>Samsung Galaxy S software - AndroidCentral.com</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/VqyIfDssAUI?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=VqyIfDssAUI&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/VqyIfDssAUI/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/VqyIfDssAUI/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=VqyIfDssAUI'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/VqyIfDssAUI?v=2'/>
+		<author>
+			<name>AndroidCentral</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/androidcentral</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/VqyIfDssAUI/comments?v=2' countHint='265'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category>
+			<media:content url='http://www.youtube.com/v/VqyIfDssAUI?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='402' yt:format='5'/>
+			<media:content url='rtsp://v4.cache8.c.youtube.com/CiILENy73wIaGQlCASw7fIisVhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='402' yt:format='1'/>
+			<media:content url='rtsp://v6.cache6.c.youtube.com/CiILENy73wIaGQlCASw7fIisVhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='402' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>AndroidCentral</media:credit>
+			<media:description type='plain'>Phil takes another look at the Samsung Galaxy S, this time focusing on the software.</media:description>
+			<media:keywords>Samsung, Galaxy S, Samsung Galaxy S, android, smartphone, ctia</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=VqyIfDssAUI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VqyIfDssAUI/default.jpg' height='90' width='120' time='00:03:21' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VqyIfDssAUI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VqyIfDssAUI/1.jpg' height='90' width='120' time='00:01:40.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VqyIfDssAUI/2.jpg' height='90' width='120' time='00:03:21' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VqyIfDssAUI/3.jpg' height='90' width='120' time='00:05:01.500' yt:name='end'/>
+			<media:title type='plain'>Samsung Galaxy S software - AndroidCentral.com</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='402'/>
+			<yt:uploaded>2010-03-24T20:23:40.000Z</yt:uploaded>
+			<yt:videoid>VqyIfDssAUI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.811111' max='5' min='1' numRaters='180' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='166' viewCount='304737'/>
+		<yt:rating numDislikes='8' numLikes='172'/>
+	</entry>
+	<entry gd:etag='W/&quot;DEcEQH47eCp7I2A9WhdVFEU.&quot;'>
+		<id>tag:youtube.com,2008:video:kGUPSvswmY0</id>
+		<published>2007-03-15T14:06:40.000Z</published>
+		<updated>2011-09-20T02:33:21.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='IT'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='3D'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Second'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Life'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tech'/>
+		<title>Software as a Service overview</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/kGUPSvswmY0?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=kGUPSvswmY0&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/kGUPSvswmY0/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/kGUPSvswmY0/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=kGUPSvswmY0'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/kGUPSvswmY0?v=2'/>
+		<author>
+			<name>Ronkonian</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/ronkonian</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/kGUPSvswmY0/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto</media:category>
+			<media:content url='http://www.youtube.com/v/kGUPSvswmY0?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='133' yt:format='5'/>
+			<media:content url='rtsp://v5.cache1.c.youtube.com/CiILENy73wIaGQmNmTD7Sg9lkBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='133' yt:format='1'/>
+			<media:content url='rtsp://v4.cache7.c.youtube.com/CiILENy73wIaGQmNmTD7Sg9lkBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='133' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>Ronkonian</media:credit>
+			<media:description type='plain'>A new InfoClipz provided by www.infoworld.com. Infomation Technology explained in 3 minutes or less!</media:description>
+			<media:keywords>IT, technology, 3D, Second, Life, software, tech</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=kGUPSvswmY0&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kGUPSvswmY0/default.jpg' height='90' width='120' time='00:01:06.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kGUPSvswmY0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kGUPSvswmY0/1.jpg' height='90' width='120' time='00:00:33.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kGUPSvswmY0/2.jpg' height='90' width='120' time='00:01:06.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kGUPSvswmY0/3.jpg' height='90' width='120' time='00:01:39.750' yt:name='end'/>
+			<media:title type='plain'>Software as a Service overview</media:title>
+			<yt:duration seconds='133'/>
+			<yt:uploaded>2007-03-15T14:06:40.000Z</yt:uploaded>
+			<yt:videoid>kGUPSvswmY0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.7843137' max='5' min='1' numRaters='51' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='168' viewCount='56990'/>
+		<yt:rating numDislikes='3' numLikes='48'/>
+	</entry>
+	<entry gd:etag='W/&quot;DUIMRX47eCp7I2A9WhdUFko.&quot;'>
+		<id>tag:youtube.com,2008:video:lIPu4o--P2I</id>
+		<published>2009-10-12T03:09:03.000Z</published>
+		<updated>2011-10-03T21:33:04.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='how'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='to'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='create'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='your'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='own'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='brandonsoft'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='part'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='getting'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='started'/>
+		<title>How to create your own software pt 1 : Getting started</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/lIPu4o--P2I?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=lIPu4o--P2I&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/lIPu4o--P2I/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/lIPu4o--P2I/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=lIPu4o--P2I'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/lIPu4o--P2I?v=2'/>
+		<author>
+			<name>BrandonioProductions</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/brandonioproductions</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/lIPu4o--P2I/comments?v=2' countHint='367'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category>
+			<media:content url='http://www.youtube.com/v/lIPu4o--P2I?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='379' yt:format='5'/>
+			<media:content url='rtsp://v1.cache7.c.youtube.com/CiILENy73wIaGQliP76P4u6DlBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='379' yt:format='1'/>
+			<media:content url='rtsp://v2.cache5.c.youtube.com/CiILENy73wIaGQliP76P4u6DlBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='379' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>BrandonioProductions</media:credit>
+			<media:description type='plain'>Have you ever wanted to make your own Home made software? Well now you can, and heres how! www.microsoft.com Thanks for watching! brandonsoft.com</media:description>
+			<media:keywords>how, to, create, your, own, software, brandonsoft, part, getting, started</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=lIPu4o--P2I&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lIPu4o--P2I/default.jpg' height='90' width='120' time='00:03:09.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lIPu4o--P2I/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lIPu4o--P2I/1.jpg' height='90' width='120' time='00:01:34.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lIPu4o--P2I/2.jpg' height='90' width='120' time='00:03:09.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lIPu4o--P2I/3.jpg' height='90' width='120' time='00:04:44.250' yt:name='end'/>
+			<media:title type='plain'>How to create your own software pt 1 : Getting started</media:title>
+			<yt:duration seconds='379'/>
+			<yt:uploaded>2009-10-12T03:09:03.000Z</yt:uploaded>
+			<yt:videoid>lIPu4o--P2I</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9082775' max='5' min='1' numRaters='447' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='545' viewCount='132717'/>
+		<yt:rating numDislikes='10' numLikes='437'/>
+	</entry>
+	<entry gd:etag='W/&quot;Ck4CQn47eCp7I2A9WhdUF0s.&quot;'>
+		<id>tag:youtube.com,2008:video:fYKKvnKQkkE</id>
+		<published>2011-04-04T22:54:54.000Z</published>
+		<updated>2011-10-04T20:42:43.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Shows' label='Shows'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='id'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='All'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Your'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='History'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='AYH'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Are'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Belong'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='To'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Us'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='game'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='PC'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='computer'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Rage'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Doom'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Quake'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Hexen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wolfenstein'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='first-person'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shooters'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='John'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Romero'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='softdisk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gamer&apos;s'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Edge'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Carmack'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Apogee'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Commander'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Keen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Dos'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Sidescrolling'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Mario'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Zelda'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Nintendo'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='NES'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='3D'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Machinima'/>
+		<title>id Software Part 5: The Silent Decade</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/fYKKvnKQkkE?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=fYKKvnKQkkE&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/fYKKvnKQkkE/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/fYKKvnKQkkE/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=fYKKvnKQkkE'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/fYKKvnKQkkE?v=2'/>
+		<author>
+			<name>machinima</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/machinima</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/fYKKvnKQkkE/comments?v=2' countHint='649'/>
+		</gd:comments>
+		<yt:episode number='11'/>
+		<yt:firstReleased>2011-04-04T07:00:00.000Z</yt:firstReleased>
+		<media:group>
+			<media:category label='Shows' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Shows</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/releasemediums.cat'>6</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/mediatypes.cat'>3</media:category>
+			<media:content url='http://www.youtube.com/v/fYKKvnKQkkE?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='874' yt:format='5'/>
+			<media:content url='rtsp://v1.cache2.c.youtube.com/CiILENy73wIaGQlBkpByvoqCfRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='874' yt:format='1'/>
+			<media:content url='rtsp://v4.cache7.c.youtube.com/CiILENy73wIaGQlBkpByvoqCfRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='874' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>machinima</media:credit>
+			<media:credit role='info' scheme='urn:ebu'>season 3 episode 11 air date 04/04/11</media:credit>
+			<media:description type='plain'>www.youtube.com Click here to watch Part 4! All Your History: id Software Part 5: The Silent Decade (S03E11) From 3D gaming to first-person shooters, many of modern gaming's biggest sellers have their roots in the legendary id Software. But id was never a mammoth corporation with tons of capital, but rather, a couple of dudes with no money and no reputation. In this fifth and final episode of our retrospective, watch and see how the kings of the 1990s found the 2000s to be a vastly changed marketplace, and how id evolved into the next millennium. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - In this video you will see... HOW TO license out your games HOW TO make one game in 10 years HOW TO reinvent yourself for the next decade - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Follow Machinima on Twitter! Machinima twitter.com Inside Gaming twitter.com Machinima Respawn twitter.com Machinima Entertainment, Technology, Culture twitter.com FOR MORE MACHINIMA, GO TO: www.youtube.com FOR MORE GAMEPLAY, GO TO: www.youtube.com FOR MORE SPORTS GAMEPLAY, GO TO: www.youtube.com FOR MORE MMO &amp; RPG GAMEPLAY, GO TO: www.youtube.com TAGS: id Software All Your History AYH Are Belong To Us video game PC computer history Rage Doom Quake Hexen Wolfenstein first-person shooters John Romero SoftDisk Gamer's Edge Carmack Apogee Commander Keen Dos Sidescrolling Mario Zelda Nintendo NES 3D Machinima</media:description>
+			<media:keywords>id, Software, All, Your, History, AYH, Are, Belong, To, Us, video, game, PC, computer, Rage, Doom, Quake, Hexen, Wolfenstein, first-person, shooters, John, Romero, softdisk, Gamer's, Edge, Carmack, Apogee, Commander, Keen, Dos, Sidescrolling, Mario, Zelda, Nintendo, NES, 3D, Machinima</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=fYKKvnKQkkE&amp;feature=youtube_gdata_player'/>
+			<media:rating scheme='urn:v-chip'>pg</media:rating>
+			<media:thumbnail url='http://i.ytimg.com/vi/fYKKvnKQkkE/default.jpg' height='90' width='120' time='00:07:17' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fYKKvnKQkkE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fYKKvnKQkkE/1.jpg' height='90' width='120' time='00:03:38.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fYKKvnKQkkE/2.jpg' height='90' width='120' time='00:07:17' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fYKKvnKQkkE/3.jpg' height='90' width='120' time='00:10:55.500' yt:name='end'/>
+			<media:title type='plain'>id Software Part 5: The Silent Decade</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='874'/>
+			<yt:uploaded>2011-04-04T22:54:54.000Z</yt:uploaded>
+			<yt:videoid>fYKKvnKQkkE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9731803' max='5' min='1' numRaters='1044' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='215' viewCount='61496'/>
+		<yt:rating numDislikes='7' numLikes='1037'/>
+	</entry>
+	<entry gd:etag='W/&quot;Ak4ARn47eCp7I2A9WhdUF0g.&quot;'>
+		<id>tag:youtube.com,2008:video:7YreEwtV7D0</id>
+		<published>2011-03-04T18:51:37.000Z</published>
+		<updated>2011-10-04T20:09:07.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Shows' label='Shows'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='id'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='All'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Your'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='History'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='AYH'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Are'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Belong'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='To'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Us'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='game'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='PC'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='computer'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Rage'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Doom'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Quake'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Hexen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wolfenstein'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='first-person'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shooters'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='John'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Romero'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='softdisk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gamer&apos;s'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Edge'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Carmack'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Apogee'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Commander'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Keen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Dos'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Sidescrolling'/>
+		<title>id Software Part 1: Scrolling Around</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/7YreEwtV7D0?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=7YreEwtV7D0&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/7YreEwtV7D0/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/7YreEwtV7D0/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=7YreEwtV7D0'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/7YreEwtV7D0?v=2'/>
+		<author>
+			<name>machinima</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/machinima</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/7YreEwtV7D0/comments?v=2' countHint='619'/>
+		</gd:comments>
+		<yt:episode number='7'/>
+		<yt:firstReleased>2011-03-03T08:00:00.000Z</yt:firstReleased>
+		<media:group>
+			<media:category label='Shows' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Shows</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/releasemediums.cat'>6</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/mediatypes.cat'>3</media:category>
+			<media:content url='http://www.youtube.com/v/7YreEwtV7D0?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='717' yt:format='5'/>
+			<media:content url='rtsp://v2.cache4.c.youtube.com/CiILENy73wIaGQk97FULE96K7RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='717' yt:format='1'/>
+			<media:content url='rtsp://v5.cache4.c.youtube.com/CiILENy73wIaGQk97FULE96K7RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='717' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>machinima</media:credit>
+			<media:credit role='info' scheme='urn:ebu'>season 3 episode 7 air date 03/03/11</media:credit>
+			<media:description type='plain'>www.youtube.com Click here to watch The Video Game Crash of 1983: Continue? All Your History: id Software Part 1: Scrolling Around (S03E07) From 3D gaming to first-person shooters, many of modern gaming's biggest sellers have their roots in the legendary id Software. But id was never a mammoth corporation with tons of capital, but rather, a couple of dudes with no money and no reputation. In this first episode of our retrospective, watch and see how a couple of gamers took their first steps on a journey to change the world. This video will show you: HOW TO Use emerging technologies to your advantage HOW TO Harness the power of genius to create your own company HOW TO Respect liars as the key to your success - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Follow Machinima on Twitter! Machinima twitter.com Inside Gaming twitter.com Machinima Respawn twitter.com Machinima Entertainment, Technology, Culture twitter.com FOR MORE MACHINIMA, GO TO: www.youtube.com FOR MORE GAMEPLAY, GO TO: www.youtube.com FOR MORE SPORTS GAMEPLAY, GO TO: www.youtube.com FOR MORE MMO &amp; RPG GAMEPLAY, GO TO: www.youtube.com FOR MORE TRAILERS, GO TO: www.youtube.com TAGS: "id Software" "All Your History" AYH "All Your History Are Belong To Us" "video game" PC computer game history Rage Doom Quake Hexen Wolfenstein first-person shooters "John Romero" SoftDisk "Gamer's Edge" "John Carmack" Apogee "Commander Keen" Dos Sidescrolling</media:description>
+			<media:keywords>id, Software, All, Your, History, AYH, Are, Belong, To, Us, video, game, PC, computer, Rage, Doom, Quake, Hexen, Wolfenstein, first-person, shooters, John, Romero, softdisk, Gamer's, Edge, Carmack, Apogee, Commander, Keen, Dos, Sidescrolling</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=7YreEwtV7D0&amp;feature=youtube_gdata_player'/>
+			<media:rating scheme='urn:v-chip'>pg</media:rating>
+			<media:thumbnail url='http://i.ytimg.com/vi/7YreEwtV7D0/default.jpg' height='90' width='120' time='00:05:58.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7YreEwtV7D0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7YreEwtV7D0/1.jpg' height='90' width='120' time='00:02:59.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7YreEwtV7D0/2.jpg' height='90' width='120' time='00:05:58.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7YreEwtV7D0/3.jpg' height='90' width='120' time='00:08:57.750' yt:name='end'/>
+			<media:title type='plain'>id Software Part 1: Scrolling Around</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='717'/>
+			<yt:uploaded>2011-03-04T18:51:37.000Z</yt:uploaded>
+			<yt:videoid>7YreEwtV7D0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9672666' max='5' min='1' numRaters='1222' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='562' viewCount='104934'/>
+		<yt:rating numDislikes='10' numLikes='1212'/>
+	</entry>
+	<entry gd:etag='W/&quot;DkQFQn47eCp7I2A9WhdUE0U.&quot;'>
+		<id>tag:youtube.com,2008:video:ypEMdjslEOI</id>
+		<published>2008-06-19T09:12:49.000Z</published>
+		<updated>2011-09-30T12:05:13.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='google'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='techtalks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='techtalk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='engedu'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='talk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='talks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='googletechtalks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='education'/>
+		<title>The role of leadership in software development</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/ypEMdjslEOI?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ypEMdjslEOI&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ypEMdjslEOI/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ypEMdjslEOI'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ypEMdjslEOI?v=2'/>
+		<author>
+			<name>GoogleTechTalks</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/googletechtalks</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='denied'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/ypEMdjslEOI/comments?v=2' countHint='30'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People</media:category>
+			<media:content url='http://www.youtube.com/v/ypEMdjslEOI?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='5524' yt:format='5'/>
+			<media:content url='rtsp://v7.cache5.c.youtube.com/CiILENy73wIaGQniECU7dgyRyhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='5524' yt:format='1'/>
+			<media:content url='rtsp://v1.cache5.c.youtube.com/CiILENy73wIaGQniECU7dgyRyhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='5524' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>GoogleTechTalks</media:credit>
+			<media:description type='plain'>Google Tech Talks May 6, 2008 ABSTRACT When you look around, there are a lot of leaders recommended for software development. We have the functional manager and the project manager, the scrum master and the black belt, the product owner and the customer-on-site, the technical leader and the architect, the product manager and the chief engineer. Clearly that's too many leaders. So how many leaders should there be, what should they do, what shouldn't they do, and what skills do they need? This will be a presentation and discussion of leadership roles in software development -- what works, what doesn't and why. Speaker: Mary Poppendieck Mary Poppendieck started her career as a process control programmer, moved on to manage the IT department of a manufacturing plant, and then ended up in product development, where she was both a product champion and department manager. Mary considered retirement 1998, but instead found herself managing a government software project where she first encountered the word "waterfall." When Mary compared her experience in successful software and product development to the prevailing opinions about how to manage software projects, she decided the time had come for a new paradigm. She wrote the award-winning book Lean Software Development: An Agile Toolkit in 2003 to explain how the lean principles from manufacturing offer a better approach to software development. Over the past six years, Mary has found retirement elusive as she lectures and &lt;b&gt;...&lt;/b&gt;</media:description>
+			<media:keywords>google, techtalks, techtalk, engedu, talk, talks, googletechtalks, education</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=ypEMdjslEOI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ypEMdjslEOI/default.jpg' height='90' width='120' time='00:46:02' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ypEMdjslEOI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ypEMdjslEOI/1.jpg' height='90' width='120' time='00:23:01' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ypEMdjslEOI/2.jpg' height='90' width='120' time='00:46:02' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ypEMdjslEOI/3.jpg' height='90' width='120' time='01:09:03' yt:name='end'/>
+			<media:title type='plain'>The role of leadership in software development</media:title>
+			<yt:duration seconds='5524'/>
+			<yt:uploaded>2008-06-19T09:12:49.000Z</yt:uploaded>
+			<yt:videoid>ypEMdjslEOI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.8455286' max='5' min='1' numRaters='123' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:recorded>2008-05-06</yt:recorded>
+		<yt:statistics favoriteCount='324' viewCount='43721'/>
+		<yt:rating numDislikes='5' numLikes='118'/>
+	</entry>
+	<entry gd:etag='W/&quot;CkQHRX47eCp7I2A9WhdUEUk.&quot;'>
+		<id>tag:youtube.com,2008:video:uJi2rkHiNqg</id>
+		<published>2006-10-19T10:27:00.000Z</published>
+		<updated>2011-09-27T16:18:54.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='richard'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stallman'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='linux'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='robin'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='good'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='robingood'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='free'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='foundation'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gnu'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='copyleft'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='open'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='source'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='opensource'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='drm'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='interview'/>
+		<title>Richard Stallman - What is free software?</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/uJi2rkHiNqg?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=uJi2rkHiNqg&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/uJi2rkHiNqg/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/uJi2rkHiNqg/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=uJi2rkHiNqg'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/uJi2rkHiNqg?v=2'/>
+		<author>
+			<name>RobinGood</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/robingood</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/uJi2rkHiNqg/comments?v=2' countHint='232'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto</media:category>
+			<media:content url='http://www.youtube.com/v/uJi2rkHiNqg?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='137' yt:format='5'/>
+			<media:content url='rtsp://v8.cache8.c.youtube.com/CiILENy73wIaGQmoNuJBrraYuBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='137' yt:format='1'/>
+			<media:content url='rtsp://v5.cache6.c.youtube.com/CiILENy73wIaGQmoNuJBrraYuBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='137' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>RobinGood</media:credit>
+			<media:description type='plain'>www.MasterNewMedia.org Robin Good interviews Richard Stallman</media:description>
+			<media:keywords>richard, stallman, linux, robin, good, robingood, free, software, foundation, gnu, copyleft, open, source, opensource, drm, interview</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=uJi2rkHiNqg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uJi2rkHiNqg/default.jpg' height='90' width='120' time='00:01:08.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uJi2rkHiNqg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uJi2rkHiNqg/1.jpg' height='90' width='120' time='00:00:34.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uJi2rkHiNqg/2.jpg' height='90' width='120' time='00:01:08.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uJi2rkHiNqg/3.jpg' height='90' width='120' time='00:01:42.750' yt:name='end'/>
+			<media:title type='plain'>Richard Stallman - What is free software?</media:title>
+			<yt:duration seconds='137'/>
+			<yt:uploaded>2006-10-19T10:27:00.000Z</yt:uploaded>
+			<yt:videoid>uJi2rkHiNqg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.8424907' max='5' min='1' numRaters='273' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='226' viewCount='54646'/>
+		<yt:rating numDislikes='11' numLikes='262'/>
+	</entry>
+	<entry gd:etag='W/&quot;CE8DRn47eCp7I2A9WhdUF0k.&quot;'>
+		<id>tag:youtube.com,2008:video:ZazceTEVufg</id>
+		<published>2011-03-21T15:03:41.000Z</published>
+		<updated>2011-10-04T15:41:17.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Shows' label='Shows'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='id'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='All'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Your'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='History'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='AYH'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Are'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Belong'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='To'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Us'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='game'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='PC'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='computer'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Rage'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Doom'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Quake'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Hexen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wolfenstein'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='first-person'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shooters'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='John'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Romero'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='softdisk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gamer&apos;s'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Edge'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Carmack'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Apogee'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Commander'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Keen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Dos'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Sidescrolling'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Mario'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Zelda'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Nintendo'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='NES'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='3D'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Machinima'/>
+		<title>id Software Part 3: The Game That Stopped The World</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/ZazceTEVufg?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ZazceTEVufg&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ZazceTEVufg/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ZazceTEVufg/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ZazceTEVufg'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ZazceTEVufg?v=2'/>
+		<author>
+			<name>machinima</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/machinima</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/ZazceTEVufg/comments?v=2' countHint='614'/>
+		</gd:comments>
+		<yt:episode number='9'/>
+		<yt:firstReleased>2011-03-20T07:00:00.000Z</yt:firstReleased>
+		<media:group>
+			<media:category label='Shows' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Shows</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/releasemediums.cat'>6</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/mediatypes.cat'>3</media:category>
+			<media:content url='http://www.youtube.com/v/ZazceTEVufg?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='872' yt:format='5'/>
+			<media:content url='rtsp://v4.cache3.c.youtube.com/CiILENy73wIaGQn4uRUxedysZRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='872' yt:format='1'/>
+			<media:content url='rtsp://v2.cache6.c.youtube.com/CiILENy73wIaGQn4uRUxedysZRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='872' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>machinima</media:credit>
+			<media:credit role='info' scheme='urn:ebu'>season 3 episode 9 air date 03/20/11</media:credit>
+			<media:description type='plain'>www.youtube.com Click here to watch All Your History - id Software Part 2: The Third Dimension! All Your History - id Software Part 3: The Game That Stopped The World (S03E09) From 3D gaming to first-person shooters, many of modern gaming's biggest sellers have their roots in the legendary id Software. But id was never a mammoth corporation with tons of capital, but rather, a couple of dudes with no money and no reputation. In this third episode of our retrospective, watch and see how the guys expanded on the success of Wolfenstein 3D to create one of the most legendary and influential games of all time. In this video you will see... HOW TO cancel a sequel to a hit game HOW TO make Bill Gates jealous HOW TO doom the world - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Follow Machinima on Twitter! Machinima twitter.com Inside Gaming twitter.com Machinima Respawn twitter.com Machinima Entertainment, Technology, Culture twitter.com FOR MORE MACHINIMA, GO TO: www.youtube.com FOR MORE GAMEPLAY, GO TO: www.youtube.com FOR MORE SPORTS GAMEPLAY, GO TO: www.youtube.com FOR MORE MMO &amp; RPG GAMEPLAY, GO TO: www.youtube.com FOR MORE TRAILERS, GO TO: www.youtube.com TAGS: id Software All Your History AYH Are Belong To Us video game PC computer history Rage Doom Quake Hexen Wolfenstein first-person shooters John Romero SoftDisk Gamer's Edge Carmack Apogee Commander Keen Dos Sidescrolling Mario Zelda Nintendo NES 3D Carmack Machinima</media:description>
+			<media:keywords>id, Software, All, Your, History, AYH, Are, Belong, To, Us, video, game, PC, computer, Rage, Doom, Quake, Hexen, Wolfenstein, first-person, shooters, John, Romero, softdisk, Gamer's, Edge, Carmack, Apogee, Commander, Keen, Dos, Sidescrolling, Mario, Zelda, Nintendo, NES, 3D, Machinima</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=ZazceTEVufg&amp;feature=youtube_gdata_player'/>
+			<media:rating scheme='urn:v-chip'>pg</media:rating>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZazceTEVufg/default.jpg' height='90' width='120' time='00:07:16' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZazceTEVufg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZazceTEVufg/1.jpg' height='90' width='120' time='00:03:38' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZazceTEVufg/2.jpg' height='90' width='120' time='00:07:16' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZazceTEVufg/3.jpg' height='90' width='120' time='00:10:54' yt:name='end'/>
+			<media:title type='plain'>id Software Part 3: The Game That Stopped The World</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='872'/>
+			<yt:uploaded>2011-03-21T15:03:41.000Z</yt:uploaded>
+			<yt:videoid>ZazceTEVufg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.961014' max='5' min='1' numRaters='1026' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='261' viewCount='81531'/>
+		<yt:rating numDislikes='10' numLikes='1016'/>
+	</entry>
+	<entry gd:etag='W/&quot;CUAGQ347eCp7I2A9WhdUF0k.&quot;'>
+		<id>tag:youtube.com,2008:video:-VPzu0Ehqwc</id>
+		<published>2011-03-28T15:03:51.000Z</published>
+		<updated>2011-10-04T15:55:22.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Shows' label='Shows'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='id'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='All'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Your'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='History'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='AYH'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Are'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Belong'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='To'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Us'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='game'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='PC'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='computer'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Rage'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Doom'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Quake'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Hexen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wolfenstein'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='first-person'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shooters'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='John'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Romero'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='softdisk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gamer&apos;s'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Edge'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Carmack'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Apogee'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Commander'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Keen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Dos'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Sidescrolling'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Mario'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Zelda'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Nintendo'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='NES'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='3D'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Machinima'/>
+		<title>id Software Part 4: Aftershocks</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/-VPzu0Ehqwc?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=-VPzu0Ehqwc&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/-VPzu0Ehqwc/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/-VPzu0Ehqwc/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=-VPzu0Ehqwc'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/-VPzu0Ehqwc?v=2'/>
+		<author>
+			<name>machinima</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/machinima</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/-VPzu0Ehqwc/comments?v=2' countHint='602'/>
+		</gd:comments>
+		<yt:episode number='10'/>
+		<yt:firstReleased>2011-03-28T07:00:00.000Z</yt:firstReleased>
+		<media:group>
+			<media:category label='Shows' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Shows</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/releasemediums.cat'>6</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/mediatypes.cat'>3</media:category>
+			<media:content url='http://www.youtube.com/v/-VPzu0Ehqwc?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='882' yt:format='5'/>
+			<media:content url='rtsp://v7.cache7.c.youtube.com/CiILENy73wIaGQkHqyFBu_NT-RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='882' yt:format='1'/>
+			<media:content url='rtsp://v3.cache6.c.youtube.com/CiILENy73wIaGQkHqyFBu_NT-RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='882' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>machinima</media:credit>
+			<media:credit role='info' scheme='urn:ebu'>season 3 episode 10 air date 03/28/11</media:credit>
+			<media:description type='plain'>www.youtube.com Click here to watch All Your History - id Software Part 3: The Game That Stopped The World! All Your History - id Software Part 4: Aftershocks (S03E10) From 3D gaming to first-person shooters, many of modern gaming's biggest sellers have their roots in the legendary id Software. But id was never a mammoth corporation with tons of capital, but rather, a couple of dudes with no money and no reputation. In this fourth episode of our retrospective, watch and see how the guys continued their world domination with the Quake series, but in the process, lost another one of their founding voices. In this video you will see... HOW TO make popular sequels with old engines HOW TO fire the game designer who helped make your company HOW TO then churn the same game with better graphics over and over again - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Follow Machinima on Twitter! Machinima twitter.com Inside Gaming twitter.com Machinima Respawn twitter.com Machinima Entertainment, Technology, Culture twitter.com FOR MORE MACHINIMA, GO TO: www.youtube.com FOR MORE GAMEPLAY, GO TO: www.youtube.com FOR MORE SPORTS GAMEPLAY, GO TO: www.youtube.com FOR MORE MMO &amp; RPG GAMEPLAY, GO TO: www.youtube.com FOR MORE TRAILERS, GO TO: www.youtube.com TAGS: id Software All Your History AYH Are Belong To Us video game PC computer history Rage Doom Quake Hexen Wolfenstein first-person shooters John Romero SoftDisk Gamer's Edge Carmack Apogee Commander Keen Dos &lt;b&gt;...&lt;/b&gt;</media:description>
+			<media:keywords>id, Software, All, Your, History, AYH, Are, Belong, To, Us, video, game, PC, computer, Rage, Doom, Quake, Hexen, Wolfenstein, first-person, shooters, John, Romero, softdisk, Gamer's, Edge, Carmack, Apogee, Commander, Keen, Dos, Sidescrolling, Mario, Zelda, Nintendo, NES, 3D, Machinima</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=-VPzu0Ehqwc&amp;feature=youtube_gdata_player'/>
+			<media:rating scheme='urn:v-chip'>pg</media:rating>
+			<media:thumbnail url='http://i.ytimg.com/vi/-VPzu0Ehqwc/default.jpg' height='90' width='120' time='00:07:21' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-VPzu0Ehqwc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-VPzu0Ehqwc/1.jpg' height='90' width='120' time='00:03:40.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-VPzu0Ehqwc/2.jpg' height='90' width='120' time='00:07:21' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-VPzu0Ehqwc/3.jpg' height='90' width='120' time='00:11:01.500' yt:name='end'/>
+			<media:title type='plain'>id Software Part 4: Aftershocks</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='882'/>
+			<yt:uploaded>2011-03-28T15:03:51.000Z</yt:uploaded>
+			<yt:videoid>-VPzu0Ehqwc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9312716' max='5' min='1' numRaters='873' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='203' viewCount='65259'/>
+		<yt:rating numDislikes='15' numLikes='858'/>
+	</entry>
+	<entry gd:etag='W/&quot;A04FQH47eCp7I2A9WhdUE0Q.&quot;'>
+		<id>tag:youtube.com,2008:video:li8MdJ5yL6k</id>
+		<published>2009-12-11T09:22:36.000Z</published>
+		<updated>2011-09-30T16:25:11.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='help'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='information'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pirillo'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='blog'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gadgets'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='screencast'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video-edit'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio-edit'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dvd'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dvdvideosoft'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='geek'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='geeks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chrispirillo'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lockergnome'/>
+		<title>Free Studio Software Bundle</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/li8MdJ5yL6k?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=li8MdJ5yL6k&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/li8MdJ5yL6k/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/li8MdJ5yL6k/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=li8MdJ5yL6k'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/li8MdJ5yL6k?v=2'/>
+		<author>
+			<name>lockergnome</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/lockergnome</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/li8MdJ5yL6k/comments?v=2' countHint='216'/>
+		</gd:comments>
+		<yt:location>Seattle, WA</yt:location>
+		<media:group>
+			<media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category>
+			<media:content url='http://www.youtube.com/v/li8MdJ5yL6k?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='181' yt:format='5'/>
+			<media:content url='rtsp://v4.cache5.c.youtube.com/CiILENy73wIaGQmpL3KedAwvlhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='181' yt:format='1'/>
+			<media:content url='rtsp://v7.cache5.c.youtube.com/CiILENy73wIaGQmpL3KedAwvlhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='181' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>lockergnome</media:credit>
+			<media:description type='plain'>go.tagjag.com - Marques has contributed a few screencasts to our community in the past few weeks - and has done an excellent job. This week, he's demonstrating for us a software bundle full of useful tools... all at no cost. With these tools, you'll be able to do numerous things with video, audio and even YouTube! www.dvdvideosoft.com - http</media:description>
+			<media:keywords>video, help, information, pirillo, blog, gadgets, screencast, audio, video-edit, audio-edit, dvd, dvdvideosoft, software, geek, geeks, chrispirillo, lockergnome</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=li8MdJ5yL6k&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/li8MdJ5yL6k/default.jpg' height='90' width='120' time='00:01:30.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/li8MdJ5yL6k/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/li8MdJ5yL6k/1.jpg' height='90' width='120' time='00:00:45.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/li8MdJ5yL6k/2.jpg' height='90' width='120' time='00:01:30.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/li8MdJ5yL6k/3.jpg' height='90' width='120' time='00:02:15.750' yt:name='end'/>
+			<media:title type='plain'>Free Studio Software Bundle</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='181'/>
+			<yt:uploaded>2009-12-11T09:22:36.000Z</yt:uploaded>
+			<yt:videoid>li8MdJ5yL6k</yt:videoid>
+		</media:group>
+		<gd:rating average='4.6979866' max='5' min='1' numRaters='298' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:recorded>2009-12-11</yt:recorded>
+		<yt:statistics favoriteCount='267' viewCount='58824'/>
+		<yt:rating numDislikes='22' numLikes='276'/>
+	</entry>
+	<entry gd:etag='W/&quot;DkIEQX47eCp7I2A9WhdUFEg.&quot;'>
+		<id>tag:youtube.com,2008:video:F6rJjv018pM</id>
+		<published>2010-04-23T19:53:58.000Z</published>
+		<updated>2011-10-01T07:35:00.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='HTC'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Droid'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Incredible'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Android'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='verizon'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wireless'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tour'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Sense'/>
+		<title>HTC Droid Incredible: Software Tour</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/F6rJjv018pM?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=F6rJjv018pM&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/F6rJjv018pM/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/F6rJjv018pM/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=F6rJjv018pM'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/F6rJjv018pM?v=2'/>
+		<author>
+			<name>jon4lakers</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/jon4lakers</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/F6rJjv018pM/comments?v=2' countHint='602'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category>
+			<media:content url='http://www.youtube.com/v/F6rJjv018pM?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='818' yt:format='5'/>
+			<media:content url='rtsp://v6.cache7.c.youtube.com/CiILENy73wIaGQmT8jX9jsmqFxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='818' yt:format='1'/>
+			<media:content url='rtsp://v8.cache2.c.youtube.com/CiILENy73wIaGQmT8jX9jsmqFxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='818' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>jon4lakers</media:credit>
+			<media:description type='plain'>TechnoBuffalo: www.technobuffalo.com Follow me on twitter cuthut.com InsideJonsMind: cuthut.com</media:description>
+			<media:keywords>HTC, Droid, Incredible, Android, verizon, wireless, Software, tour, Sense</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=F6rJjv018pM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6rJjv018pM/default.jpg' height='90' width='120' time='00:06:49' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6rJjv018pM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6rJjv018pM/1.jpg' height='90' width='120' time='00:03:24.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6rJjv018pM/2.jpg' height='90' width='120' time='00:06:49' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6rJjv018pM/3.jpg' height='90' width='120' time='00:10:13.500' yt:name='end'/>
+			<media:title type='plain'>HTC Droid Incredible: Software Tour</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='818'/>
+			<yt:uploaded>2010-04-23T19:53:58.000Z</yt:uploaded>
+			<yt:videoid>F6rJjv018pM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.8133802' max='5' min='1' numRaters='568' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='202' viewCount='120328'/>
+		<yt:rating numDislikes='26' numLikes='542'/>
+	</entry>
+	<entry gd:etag='W/&quot;D0QGSH47eCp7I2A9WhdUEE0.&quot;'>
+		<id>tag:youtube.com,2008:video:zXRxsRgLRZ4</id>
+		<published>2008-10-13T17:13:09.000Z</published>
+		<updated>2011-09-26T02:48:49.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='google'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='techtalks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='techtalk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='engedu'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='talk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='talks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='googletechtalks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='education'/>
+		<title>80:20 rules! - Building software smarter</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/zXRxsRgLRZ4?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=zXRxsRgLRZ4&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/zXRxsRgLRZ4/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=zXRxsRgLRZ4'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/zXRxsRgLRZ4?v=2'/>
+		<author>
+			<name>GoogleTechTalks</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/googletechtalks</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='denied'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/zXRxsRgLRZ4/comments?v=2' countHint='20'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category>
+			<media:content url='http://www.youtube.com/v/zXRxsRgLRZ4?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='3263' yt:format='5'/>
+			<media:content url='rtsp://v7.cache7.c.youtube.com/CiILENy73wIaGQmeRQsYsXF0zRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='3263' yt:format='1'/>
+			<media:content url='rtsp://v1.cache3.c.youtube.com/CiILENy73wIaGQmeRQsYsXF0zRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='3263' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>GoogleTechTalks</media:credit>
+			<media:description type='plain'>Google Tech Talks October 8, 2008 ABSTRACT Ever notice that you seem to spend 80% of your time on 20% of your tasks? Or that 80% of the decisions in a meeting seem to occur in 20% of the meeting time? Welcome to the world of the 80:20 rule. When we design, build and test software, we have to determine where to start and what we should do next. The 80:20 rule helps provide an answer to these questions, while helping to increase our productivity and effectiveness. As well as being an agile principle, it's a common thread in other disciplines, and there's a special variation that applies to software defects. We'll explore the different ways testers and developers are using the 80:20 rule. This rule could be a secret ingredient to help you build software smarter! Speaker: Erik Petersen Erik Petersen has been involved in custom software development since the 1980s, now focusing on testing and quality. He has presented at more than twenty Australian and international conferences, winning several awards. He mixes industry experience with powerful ideas and a passion for quality, and has influenced the work habits of hundreds of testers and developers across the world. Erik's been heavily involved in the Exploratory Testing community since before he even knew what it was called, proposing the idea of paired ET independently of Kaner and Bach in 2001. He is pushing forward with research on ET and other agile methods. He has reviewed many agile and testing books, and accidentally &lt;b&gt;...&lt;/b&gt;</media:description>
+			<media:keywords>google, techtalks, techtalk, engedu, talk, talks, googletechtalks, education</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=zXRxsRgLRZ4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zXRxsRgLRZ4/default.jpg' height='90' width='120' time='00:27:11.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zXRxsRgLRZ4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zXRxsRgLRZ4/1.jpg' height='90' width='120' time='00:13:35.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zXRxsRgLRZ4/2.jpg' height='90' width='120' time='00:27:11.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zXRxsRgLRZ4/3.jpg' height='90' width='120' time='00:40:47.250' yt:name='end'/>
+			<media:title type='plain'>80:20 rules! - Building software smarter</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='3263'/>
+			<yt:uploaded>2008-10-13T17:13:09.000Z</yt:uploaded>
+			<yt:videoid>zXRxsRgLRZ4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.1296296' max='5' min='1' numRaters='54' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:recorded>2008-10-08</yt:recorded>
+		<yt:statistics favoriteCount='166' viewCount='29074'/>
+		<yt:rating numDislikes='12' numLikes='42'/>
+	</entry>
+	<entry gd:etag='W/&quot;DkQDQn47eCp7I2A9WhdUF08.&quot;'>
+		<id>tag:youtube.com,2008:video:hw5k98GV7po</id>
+		<published>2011-02-09T21:44:49.000Z</published>
+		<updated>2011-10-04T10:32:53.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='khan'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='education'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='data'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='self-paced'/>
+		<title>Khan Academy Exercise Software</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/hw5k98GV7po?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=hw5k98GV7po&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/hw5k98GV7po/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/hw5k98GV7po/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=hw5k98GV7po'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/hw5k98GV7po?v=2'/>
+		<author>
+			<name>khanacademy</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/khanacademy</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/hw5k98GV7po/comments?v=2' countHint='252'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category>
+			<media:content url='http://www.youtube.com/v/hw5k98GV7po?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='615' yt:format='5'/>
+			<media:content url='rtsp://v6.cache5.c.youtube.com/CiILENy73wIaGQma7pXB92QOhxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='615' yt:format='1'/>
+			<media:content url='rtsp://v6.cache8.c.youtube.com/CiILENy73wIaGQma7pXB92QOhxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='615' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>khanacademy</media:credit>
+			<media:description type='plain'>Walkthrough of the software</media:description>
+			<media:keywords>khan, education, data, self-paced</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=hw5k98GV7po&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hw5k98GV7po/default.jpg' height='90' width='120' time='00:05:07.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hw5k98GV7po/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hw5k98GV7po/1.jpg' height='90' width='120' time='00:02:33.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hw5k98GV7po/2.jpg' height='90' width='120' time='00:05:07.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hw5k98GV7po/3.jpg' height='90' width='120' time='00:07:41.250' yt:name='end'/>
+			<media:title type='plain'>Khan Academy Exercise Software</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='615'/>
+			<yt:uploaded>2011-02-09T21:44:49.000Z</yt:uploaded>
+			<yt:videoid>hw5k98GV7po</yt:videoid>
+		</media:group>
+		<gd:rating average='4.967655' max='5' min='1' numRaters='742' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='343' viewCount='210937'/>
+		<yt:rating numDislikes='6' numLikes='736'/>
+	</entry>
+	<entry gd:etag='W/&quot;DkEBRn47eCp7I2A9WhdUFko.&quot;'>
+		<id>tag:youtube.com,2008:video:gjp5jxzbDWg</id>
+		<published>2008-05-07T21:56:01.000Z</published>
+		<updated>2011-10-03T20:44:17.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Shows' label='Shows'/>
+		<title>Software Indicates Missing Child Likely A Prostitute By Now</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/gjp5jxzbDWg?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=gjp5jxzbDWg&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/gjp5jxzbDWg/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/gjp5jxzbDWg/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=gjp5jxzbDWg'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/gjp5jxzbDWg?v=2'/>
+		<author>
+			<name>TheOnion</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/theonion</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='allowed'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/gjp5jxzbDWg/comments?v=2' countHint='3228'/>
+		</gd:comments>
+		<yt:episode number='8'/>
+		<yt:firstReleased>2008-05-05T07:00:00.000Z</yt:firstReleased>
+		<media:group>
+			<media:category label='Shows' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Shows</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/releasemediums.cat'>6</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/mediatypes.cat'>3</media:category>
+			<media:content url='http://www.youtube.com/v/gjp5jxzbDWg?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='178' yt:format='5'/>
+			<media:content url='rtsp://v3.cache2.c.youtube.com/CiILENy73wIaGQloDdscj3k6ghMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='178' yt:format='1'/>
+			<media:content url='rtsp://v2.cache7.c.youtube.com/CiILENy73wIaGQloDdscj3k6ghMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='178' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>TheOnion</media:credit>
+			<media:credit role='info' scheme='urn:ebu'>season 1 episode 8 air date 05/05/08</media:credit>
+			<media:description type='plain'>Today Now! utilizes computer technology to show a mother how rampant drug use and prostitution has ravaged her little girl's body. More coverage at: onion.com</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=gjp5jxzbDWg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gjp5jxzbDWg/default.jpg' height='90' width='120' time='00:01:29' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gjp5jxzbDWg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gjp5jxzbDWg/1.jpg' height='90' width='120' time='00:00:44.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gjp5jxzbDWg/2.jpg' height='90' width='120' time='00:01:29' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gjp5jxzbDWg/3.jpg' height='90' width='120' time='00:02:13.500' yt:name='end'/>
+			<media:title type='plain'>Software Indicates Missing Child Likely A Prostitute By Now</media:title>
+			<yt:duration seconds='178'/>
+			<yt:uploaded>2008-05-07T21:56:01.000Z</yt:uploaded>
+			<yt:videoid>gjp5jxzbDWg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.5834413' max='5' min='1' numRaters='3865' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='2610' viewCount='559175'/>
+		<yt:rating numDislikes='402' numLikes='3463'/>
+	</entry>
+	<entry gd:etag='W/&quot;D0QMQX47eCp7I2A9WhdUE0o.&quot;'>
+		<id>tag:youtube.com,2008:video:NorfgQlEJv8</id>
+		<published>2006-11-22T01:33:37.000Z</published>
+		<updated>2011-09-30T09:36:20.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='open-source'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='free-software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='community'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='eben-moglen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='plone'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ploneconf2006'/>
+		<title>Software and Community in the Early 21st Century</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/NorfgQlEJv8?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=NorfgQlEJv8&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/NorfgQlEJv8/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/NorfgQlEJv8/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=NorfgQlEJv8'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/NorfgQlEJv8?v=2'/>
+		<author>
+			<name>jondstahl</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/jondstahl</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/NorfgQlEJv8/comments?v=2' countHint='70'/>
+		</gd:comments>
+		<yt:location>Plone Conference 2006, Seattle, WA</yt:location>
+		<media:group>
+			<media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto</media:category>
+			<media:content url='http://www.youtube.com/v/NorfgQlEJv8?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='3905' yt:format='5'/>
+			<media:content url='rtsp://v6.cache5.c.youtube.com/CiILENy73wIaGQn_JkQJgd-KNhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='3905' yt:format='1'/>
+			<media:content url='rtsp://v2.cache6.c.youtube.com/CiILENy73wIaGQn_JkQJgd-KNhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='3905' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>jondstahl</media:credit>
+			<media:description type='plain'>Keynote address given at Plone Conference 2006 by Eben Moglen of the Software Freedom Law Center</media:description>
+			<media:keywords>open-source, free-software, software, community, eben-moglen, plone, ploneconf2006</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=NorfgQlEJv8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NorfgQlEJv8/default.jpg' height='90' width='120' time='00:32:32.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NorfgQlEJv8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NorfgQlEJv8/1.jpg' height='90' width='120' time='00:16:16.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NorfgQlEJv8/2.jpg' height='90' width='120' time='00:32:32.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NorfgQlEJv8/3.jpg' height='90' width='120' time='00:48:48.750' yt:name='end'/>
+			<media:title type='plain'>Software and Community in the Early 21st Century</media:title>
+			<yt:duration seconds='3905'/>
+			<yt:uploaded>2006-11-22T01:33:37.000Z</yt:uploaded>
+			<yt:videoid>NorfgQlEJv8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9180326' max='5' min='1' numRaters='183' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:recorded>2006-10-25</yt:recorded>
+		<yt:statistics favoriteCount='251' viewCount='47916'/>
+		<yt:rating numDislikes='4' numLikes='179'/>
+	</entry>
+	<entry gd:etag='W/&quot;Ak4CQX47eCp7I2A9WhdUF0g.&quot;'>
+		<id>tag:youtube.com,2008:video:ejP-zWWei3I</id>
+		<published>2011-08-25T06:37:07.000Z</published>
+		<updated>2011-10-04T20:09:20.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sony'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ericsson'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Sony Ericsson'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='update'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Android'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2.3.4'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gingerbread'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Xperia'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gtalk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='google'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='talk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video chat'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='4.0.1'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Facebook'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='screen capture'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='screenshot'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='3D'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sweep'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gamepad'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='USB to go'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wireless'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='keyboard'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mouse'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='swipe'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='trace'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='type'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mobile'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mobile device'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='phone'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='show'/>
+		<title>Sony Ericsson Xperia software update features</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/ejP-zWWei3I?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ejP-zWWei3I&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ejP-zWWei3I/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ejP-zWWei3I/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ejP-zWWei3I'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ejP-zWWei3I?v=2'/>
+		<author>
+			<name>SonyEricssonDev</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/sonyericssondev</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/ejP-zWWei3I/comments?v=2' countHint='158'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category>
+			<media:content url='http://www.youtube.com/v/ejP-zWWei3I?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='130' yt:format='5'/>
+			<media:content url='rtsp://v6.cache6.c.youtube.com/CiILENy73wIaGQlyi55lzf4zehMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='130' yt:format='1'/>
+			<media:content url='rtsp://v3.cache1.c.youtube.com/CiILENy73wIaGQlyi55lzf4zehMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='130' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>SonyEricssonDev</media:credit>
+			<media:description type='plain'>In this video we show off the new features in the software upgrade of the 2011 Xperia™ smartphones. This upgrade will include an upgrade to Android 2.3.4, Google Talk with Video Chat (models with front-facing camera), updated Facebook inside Xperia™ functionality for enhanced like, share and discover abilities, 3D sweep panorama functionality powered by Sony, swipe text input, screen capture on your phone with easy sharing and USB on the go to turn your Xperia™ smartphone into a mini-mobile PC by connecting USB peripherals (mouse, keyboard or game controller) to Sony Ericsson LiveDock™ multimedia station. Combining that with HDMI to a TV you can have a big screen experience with your Xperia™ smartphone.</media:description>
+			<media:keywords>sony, ericsson, Sony Ericsson, software, update, Android, 2.3.4, Gingerbread, Xperia, Gtalk, google, talk, video chat, 4.0.1, Facebook, screen capture, screenshot, 3D, sweep, gamepad, USB to go, wireless, keyboard, mouse, swipe, trace, type, mobile, mobile device, phone, show</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=ejP-zWWei3I&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ejP-zWWei3I/default.jpg' height='90' width='120' time='00:01:05' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ejP-zWWei3I/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ejP-zWWei3I/1.jpg' height='90' width='120' time='00:00:32.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ejP-zWWei3I/2.jpg' height='90' width='120' time='00:01:05' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ejP-zWWei3I/3.jpg' height='90' width='120' time='00:01:37.500' yt:name='end'/>
+			<media:title type='plain'>Sony Ericsson Xperia software update features</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='130'/>
+			<yt:uploaded>2011-08-25T06:37:07.000Z</yt:uploaded>
+			<yt:videoid>ejP-zWWei3I</yt:videoid>
+		</media:group>
+		<gd:rating average='4.874477' max='5' min='1' numRaters='478' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:recorded>2011-08-25</yt:recorded>
+		<yt:statistics favoriteCount='118' viewCount='184399'/>
+		<yt:rating numDislikes='15' numLikes='463'/>
+	</entry>
+	<entry gd:etag='W/&quot;A0EERX47eCp7I2A9WhdXEkU.&quot;'>
+		<id>tag:youtube.com,2008:video:pegiw2iVUY8</id>
+		<published>2009-03-04T16:36:58.000Z</published>
+		<updated>2011-08-25T16:26:44.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Travel' label='Travel &amp; Events'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='QUE'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ES'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='EL'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SOFTWARE'/>
+		<title>QUE ES EL SOFTWARE</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/pegiw2iVUY8?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=pegiw2iVUY8&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/pegiw2iVUY8/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/pegiw2iVUY8/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=pegiw2iVUY8'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/pegiw2iVUY8?v=2'/>
+		<author>
+			<name>willwillwesp</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/willwillwesp</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/pegiw2iVUY8/comments?v=2' countHint='14'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Travel &amp; Events' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Travel</media:category>
+			<media:content url='http://www.youtube.com/v/pegiw2iVUY8?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='37' yt:format='5'/>
+			<media:content url='rtsp://v5.cache5.c.youtube.com/CiILENy73wIaGQmPUZVowyLopRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='37' yt:format='1'/>
+			<media:content url='rtsp://v6.cache8.c.youtube.com/CiILENy73wIaGQmPUZVowyLopRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='37' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>willwillwesp</media:credit>
+			<media:description type='plain'/>
+			<media:keywords>QUE, ES, EL, SOFTWARE</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=pegiw2iVUY8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pegiw2iVUY8/default.jpg' height='90' width='120' time='00:00:18.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pegiw2iVUY8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pegiw2iVUY8/1.jpg' height='90' width='120' time='00:00:09.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pegiw2iVUY8/2.jpg' height='90' width='120' time='00:00:18.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pegiw2iVUY8/3.jpg' height='90' width='120' time='00:00:27.750' yt:name='end'/>
+			<media:title type='plain'>QUE ES EL SOFTWARE</media:title>
+			<yt:duration seconds='37'/>
+			<yt:uploaded>2009-03-04T16:36:58.000Z</yt:uploaded>
+			<yt:videoid>pegiw2iVUY8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.6666665' max='5' min='1' numRaters='18' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='54' viewCount='76681'/>
+		<yt:rating numDislikes='1' numLikes='17'/>
+	</entry>
+	<entry gd:etag='W/&quot;Dk8GRX47eCp7I2A9WhdUEks.&quot;'>
+		<id>tag:youtube.com,2008:video:z2lHc_MFIZs</id>
+		<published>2011-03-17T00:28:55.000Z</published>
+		<updated>2011-09-29T02:53:44.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Shows' label='Shows'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hacker headlines'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='android'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ps3'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kinect'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='crack the code challenge'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='citrix'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='haktip'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='packet sniff'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='packet capture'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pcap'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wireshark'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tcpdump'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bash'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='linux'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='steganography'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='multi threaded'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='metatagging'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='categories'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hak5 org'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='segment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ccc'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dropbox'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dropbox alternative'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='openssh'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rsync'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='trivia'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tron'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wargames'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='daft punk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='blade runner'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='case mod'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='photo frame'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='picture frame'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shadow box'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ikea'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pc case'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ikea mod'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cold cathode'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lighting'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cable mangement'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='loom'/>
+		<title>Hak5 - Writing software without a line of code, crafting packets with hping, case mod cable mangement</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/z2lHc_MFIZs?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=z2lHc_MFIZs&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/z2lHc_MFIZs/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/z2lHc_MFIZs/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=z2lHc_MFIZs'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/z2lHc_MFIZs?v=2'/>
+		<author>
+			<name>Hak5Darren</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/hak5darren</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/z2lHc_MFIZs/comments?v=2' countHint='106'/>
+		</gd:comments>
+		<yt:episode number='4'/>
+		<yt:firstReleased>2011-05-24T07:00:00.000Z</yt:firstReleased>
+		<media:group>
+			<media:category label='Shows' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Shows</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/releasemediums.cat'>6</media:category>
+			<media:category scheme='http://gdata.youtube.com/schemas/2007/mediatypes.cat'>3</media:category>
+			<media:content url='http://www.youtube.com/v/z2lHc_MFIZs?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2792' yt:format='5'/>
+			<media:content url='rtsp://v5.cache1.c.youtube.com/CiILENy73wIaGQmbIQXzc0dpzxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='2792' yt:format='1'/>
+			<media:content url='rtsp://v1.cache4.c.youtube.com/CiILENy73wIaGQmbIQXzc0dpzxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='2792' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>Hak5Darren</media:credit>
+			<media:credit role='info' scheme='urn:ebu'>season 9 episode 4 air date 05/24/11</media:credit>
+			<media:description type='plain'>Darren finishes off the photo frame case mod with a little cable beautification and accent lighting. Shannon's getting into programming without touching a line of code using the Illumination Software Creator from Radical Breeze. Plus getting crafty with packets and the hping utility, open-source dropbox alternative based on OpenSSH and Rsync, and multi-threaded steganography bruter-forcers!</media:description>
+			<media:keywords>hacker headlines, android, ps3, kinect, crack the code challenge, citrix, haktip, packet sniff, packet capture, pcap, wireshark, tcpdump, bash, linux, steganography, multi threaded, metatagging, categories, hak5 org, segment, ccc, dropbox, dropbox alternative, openssh, rsync, trivia, tron, wargames, daft punk, blade runner, case mod, photo frame, picture frame, shadow box, ikea, pc case, ikea mod, cold cathode, lighting, cable mangement, loom</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=z2lHc_MFIZs&amp;feature=youtube_gdata_player'/>
+			<media:rating scheme='urn:v-chip'>tv-y</media:rating>
+			<media:thumbnail url='http://i.ytimg.com/vi/z2lHc_MFIZs/default.jpg' height='90' width='120' time='00:23:16' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/z2lHc_MFIZs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/z2lHc_MFIZs/1.jpg' height='90' width='120' time='00:11:38' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/z2lHc_MFIZs/2.jpg' height='90' width='120' time='00:23:16' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/z2lHc_MFIZs/3.jpg' height='90' width='120' time='00:34:54' yt:name='end'/>
+			<media:title type='plain'>Hak5 - Writing software without a line of code, crafting packets with hping, case mod cable mangement</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='2792'/>
+			<yt:uploaded>2011-03-17T00:28:55.000Z</yt:uploaded>
+			<yt:videoid>z2lHc_MFIZs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.8235292' max='5' min='1' numRaters='136' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='52' viewCount='21923'/>
+		<yt:rating numDislikes='6' numLikes='130'/>
+	</entry>
+	<entry gd:etag='W/&quot;CkQFRH47eCp7I2A9WhdUFEk.&quot;'>
+		<id>tag:youtube.com,2008:video:CL-vIg4Ivqw</id>
+		<published>2008-03-25T14:14:16.000Z</published>
+		<updated>2011-10-01T03:38:35.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Computer'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Software'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Engineer'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Career'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Day'/>
+		<title>A Day in the Life - Computer Software Engineer</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/CL-vIg4Ivqw?version=3&amp;f=videos&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=CL-vIg4Ivqw&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/CL-vIg4Ivqw/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/CL-vIg4Ivqw/related?v=2'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/CL-vIg4Ivqw?v=2'/>
+		<author>
+			<name>CareerRx</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/careerrx</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='allowed'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/CL-vIg4Ivqw/comments?v=2' countHint='146'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category>
+			<media:content url='http://www.youtube.com/v/CL-vIg4Ivqw?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='74' yt:format='5'/>
+			<media:content url='rtsp://v7.cache3.c.youtube.com/CiILENy73wIaGQmsvggOIq-_CBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='74' yt:format='1'/>
+			<media:content url='rtsp://v3.cache4.c.youtube.com/CiILENy73wIaGQmsvggOIq-_CBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='74' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>CareerRx</media:credit>
+			<media:description type='plain'>A typical day in the life of a Computer Software Engineer. Courtesy of CareerOneStop. Learn how to get there at www.MYCAREERRX.com. Colleges Educate. We Create Careers.</media:description>
+			<media:keywords>Computer, Software, Engineer, Career, Day</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=CL-vIg4Ivqw&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CL-vIg4Ivqw/default.jpg' height='90' width='120' time='00:00:37' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CL-vIg4Ivqw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CL-vIg4Ivqw/1.jpg' height='90' width='120' time='00:00:18.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CL-vIg4Ivqw/2.jpg' height='90' width='120' time='00:00:37' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CL-vIg4Ivqw/3.jpg' height='90' width='120' time='00:00:55.500' yt:name='end'/>
+			<media:title type='plain'>A Day in the Life - Computer Software Engineer</media:title>
+			<yt:duration seconds='74'/>
+			<yt:uploaded>2008-03-25T14:14:16.000Z</yt:uploaded>
+			<yt:videoid>CL-vIg4Ivqw</yt:videoid>
+		</media:group>
+		<gd:rating average='4.064' max='5' min='1' numRaters='125' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='108' viewCount='133844'/>
+		<yt:rating numDislikes='29' numLikes='96'/>
+	</entry>
+</feed>
