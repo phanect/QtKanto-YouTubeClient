@@ -1,3 +1,9 @@
+/*
+ * This code is licensed under public domain.
+ * author: Jumpei Ogawa < http://phanective.wordpress.com/ >
+ * You can get this source code at https://github.com/phanect/QtKanto-YouTubeClient
+ */
+
 import QtQuick 1.0
 import QtWebKit 1.0
 
@@ -5,45 +11,45 @@ Rectangle {
 	width: 600
 	height: 400
 
-        // 動画一覧
-        ListView {
-                id: videolist
+	// 動画一覧
+	ListView {
+		id: videolist
 
-                model: ytlist
-                delegate: Column{
-                        Image {
-                                source: thumbnail
+		model: ytlist
+		delegate: Column{
+			Image {
+				source: thumbnail
 
-                                MouseArea {
-                                        anchors.fill: parent
-                                        onClicked: {
-                                                videoplayer.url = "http://www.youtube.com/embed/" + videoId // + "?html5=1"
-                                        }
-                                }
-                        }
+				MouseArea {
+					anchors.fill: parent
+					onClicked: {
+						videoplayer.url = "http://www.youtube.com/embed/" + videoId // + "?html5=1"
+					}
+				}
+			}
 
-                        Text {text: title}
-                }
+			Text {text: title}
+		}
 
-                anchors.top: in_keyword.bottom
-                anchors.margins: 10
-                width: parent.width / 3
-                height: parent.height
-        }
+		anchors.top: in_keyword.bottom
+		anchors.margins: 10
+		width: parent.width / 3
+		height: parent.height
+	}
 
-        // Player
-        WebView {
-                id: videoplayer
+	// Player
+	WebView {
+		id: videoplayer
 
-                url: ""
-                settings.pluginsEnabled: true
+		url: ""
+		settings.pluginsEnabled: true
 
-                anchors.top: in_keyword.bottom
-                anchors.left: videolist.right
-                anchors.right: parent.right
-                anchors.bottom: parent.bottom
-                anchors.margins: 10
-        }
+		anchors.top: in_keyword.bottom
+		anchors.left: videolist.right
+		anchors.right: parent.right
+		anchors.bottom: parent.bottom
+		anchors.margins: 10
+	}
 
 	// ラベル
 	Text {
